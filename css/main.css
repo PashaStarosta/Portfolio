@@ -247,6 +247,13 @@ text-align: center;
 
 }
 
+.watch {
+  margin: 15px 0 50px;
+    color: #17D4FE;
+    font-size: 90px;
+    letter-spacing: 4px;
+}
+
 .project-description {
   margin: 0 auto 60px;
 }
